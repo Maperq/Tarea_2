@@ -5,4 +5,21 @@ button {
     font-size: 14px;
     cursor: pointer;
     margin: 3vh 3vh;
-}fdfd
+}
+
+p {
+     
+  color: red;
+  font-family: "Verdana";
+  width: 500px;
+  border: 1px solid black;
+}
+
+h2
+{
+   font-family:	"Comic Sans MS";
+   text-decoration  : underline black;
+   text-align: center;
+    
+   
+}
